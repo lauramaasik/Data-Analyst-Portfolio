@@ -25,8 +25,10 @@ Main topics covered:
 ### Completed courses
 [Understanding Data Science](https://app.datacamp.com/learn/courses/understanding-data-science)
 Different data scientist roles, foundational topics like A/B testing, time series analysis, and machine learning
+
 [Introduction to Data Science in Python](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python)
 Basic Python syntax and popular modules like Matplotlib and pandas
+
 [Computing in Python I: Fundamentals and Procedural Programming](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural)
 50h of content, including Debugging, Procedural Programming, Variables, Logical Operators, Mathematical Operators.
 [Computing in Python II: Control Structures](https://www.edx.org/course/computing-in-python-ii-control-structures)
